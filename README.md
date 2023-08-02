@@ -1,7 +1,7 @@
 # Hello!
 
-I'm Mark (he/they), and I make stuff!
+[![Discord Presence](https://lanyard.cnrad.dev/api/240254631173816320)](https://discord.com/users/240254631173816320)
 
-Notably, I haven't published anything yet. I'll let you know when that changes :)
+I'm Mark (he/they), and I make stuff!
 
 Have a nice day! :D
